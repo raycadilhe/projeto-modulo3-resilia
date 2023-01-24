@@ -1,0 +1,95 @@
+{
+    "Tatuadores": [
+        {
+            "Nome": "Lívia",
+            "Idade": 26,
+            "Cidade": "Manaus",
+            "Ano de início": 2018,
+            "Estilo": "Blackwork",
+            "id": 1
+        },
+        {
+            "Nome": "Peter",
+            "Idade": 33,
+            "Cidade": "Londres",
+            "Ano de início": 2010,
+            "Estilo": "Realismo",
+            "id": 2
+        },
+        {
+            "Nome": "Bárbara",
+            "Idade": 21,
+            "Cidade": "Rio de Janeiro",
+            "Ano de início": 2021,
+            "Estilo": "Pontilhismo",
+            "id": 3
+        },
+        {
+            "Nome": "Gabriel",
+            "Idade": 35,
+            "Cidade": "Rio de Janeiro",
+            "Ano de início": 2009,
+            "Estilo": "Old School",
+            "id": 4
+        },
+        {
+            "Nome": "Laura",
+            "Idade": 23,
+            "Cidade": "Rio de Janeiro",
+            "Ano de início": 2020,
+            "Estilo": "Lettering",
+            "id": 5
+        },
+        {
+            "Nome": "Sávio",
+            "Idade": 27,
+            "Cidade": "São Paulo",
+            "Ano de início": 2017,
+            "Estilo": "Fine Line",
+            "id": 6
+        }
+    ],
+    "MarcasUtilizadas": [
+        {
+            "id": "1",
+            "Material": "Agulhas Descartáveis",
+            "MarcaPrincipal": "White Head",
+            "MarcaSecundaria": "Electric Ink"
+        },
+        {
+            "id": "3",
+            "Material": "Biqueiras Descartáveis",
+            "Marca": "Electric Ink",
+            "MarcaSecundaria": "Aston"
+        },
+        {
+            "id": "2",
+            "Material": "Tintas",
+            "Marca": "Electric Ink",
+            "MarcaSecundaria": "Viper Ink"
+        }
+    ],
+    "ClientesFamosos": [
+        {
+            "id": 1,
+            "Nome": "Fred",
+            "Idade": "29",
+            "Profissão": "Jogador de Futebol",
+            "Tatuado por": "Laura"
+        },
+        {
+            "id": 2,
+            "Nome": "Giovanna",
+            "Idade": "31",
+            "Profissão": "Atriz",
+            "Tatuada por": "Gabriel"
+        },
+        {
+            "id": 3,
+            "Nome": "Harry",
+            "Idade": "28",
+            "Profissão": "Cantor",
+            "Tatuado por": "Peter"
+        }
+    ]
+}

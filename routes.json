@@ -1,0 +1,14 @@
+{
+    "GET/tatuadores/list": "/tatuadores/",
+    "POST/taduadores/create": "/tatuadores/",
+    "PUT/tatuadores/update/:id": "/tatuadores/:id",
+    "DELETE/tatuadores/delete/:id": "/tatuadores/:id",
+    "GET/MarcasUtilizadas/list": "/MarcasUtilizadas/",
+    "POST/MarcasUtilizadas/create": "/MarcasUtilizadas/",
+    "PUT/MarcasUtilizadas/update/:id": "/MarcasUtilizadas/:id",
+    "DELETE/MarcasUtilizadas/delete/:id": "/MarcasUtilizadas/:id",
+    "GET/ClientesFamosos/list": "/ClientesFamosos/",
+    "POST/ClientesFamosos/create": "/ClientesFamosos/",
+    "PUT/ClientesFamosos/update/:id": "/ClientesFamosos/:id",
+    "DELETE/ClientesFamosos/delete/:id": "/ClientesFamosos/:id"
+}
