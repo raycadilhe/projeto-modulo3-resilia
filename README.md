@@ -29,6 +29,8 @@ Acesse através da url http://localhost:3000
 npm json-server -r routes.json --watch db.json
 ```
 Acesse através da url http://localhost:3000
+
+**E pronto!** ✨
 *******
 
 
