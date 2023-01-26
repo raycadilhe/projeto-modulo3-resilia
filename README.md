@@ -33,4 +33,4 @@ Acesse através da url http://localhost:3000
 
 
 **Para visualizar o Json Server no render:**
-https://img.shields.io/static/v1?label=<>&message=<Veja o Deploy do Servidor>&color=<brightgreen>****
+https://projeto-modulo3-resilia.onrender.com
