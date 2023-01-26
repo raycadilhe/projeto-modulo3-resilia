@@ -30,7 +30,7 @@ npx json-server -r routes.json --watch db.json
 Acesse através da url http://localhost:3000
 *******
 
-``dif
+```dif
 + Para visualizar o Json Server no render:
 + https://ray-modulo3-resilia.onrender.com/
-``
+```
