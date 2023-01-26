@@ -15,7 +15,7 @@ npm install -g json-server
 
 • Após a instalação, execute o comando abaixo para iniciar o Json Server.
 ```
-npx json-server --watch db.json"
+npm json-server --watch db.json
 ```
 Acesse através da url http://localhost:3000
 
@@ -26,12 +26,12 @@ Acesse através da url http://localhost:3000
 ## 💻 Como acesso as rotas personalizadas?
 • Execute o comando abaixo:
 ```
-npx json-server -r routes.json --watch db.json
+npm json-server -r routes.json --watch db.json
 ```
 Acesse através da url http://localhost:3000
 *******
 
 
-**Para visualizar o Json Server no render:
-[https://ray-modulo3-resilia.onrender.com/](https://ray-modulo3-resilia.onrender.com/) **
+**Para visualizar o Json Server no render:**
+**[https://ray-modulo3-resilia.onrender.com/](https://ray-modulo3-resilia.onrender.com/) **
 
