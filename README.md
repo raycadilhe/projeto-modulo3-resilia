@@ -5,7 +5,7 @@ O tema escolhido foi um Estúdio de Tatuagem.
 *******
 
 
-## Como executar? 
+##💻 Como executar? 
 • [Instale o node.js](https://nodejs.org/en/download/)
 
 • Abra o Visual Studio Code e execute o comando:
@@ -23,7 +23,7 @@ Acesse através da url http://localhost:3000
 *******
 
 
-## Como acesso as rotas personalizadas?
+##💻 Como acesso as rotas personalizadas?
 • Execute o comando abaixo:
 ```
 npx json-server -r routes.json --watch db.json
@@ -31,7 +31,7 @@ npx json-server -r routes.json --watch db.json
 Acesse através da url http://localhost:3000
 *******
 
-```dif
-@@ Para visualizar o Json Server no render: @@
-@@ [https://ray-modulo3-resilia.onrender.com/](https://ray-modulo3-resilia.onrender.com/) @@
-```
+
+**Para visualizar o Json Server no render:
+[https://ray-modulo3-resilia.onrender.com/](https://ray-modulo3-resilia.onrender.com/) **
+
