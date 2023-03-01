@@ -1,7 +1,7 @@
 {
     "Tatuadores": [
         {
-            "Foto": "https://cdn.osaogoncalo.com.br/img/normal/80000/carequinha_00085164_0.jpg?xid=226642",
+            "Foto": src="https://cdn.osaogoncalo.com.br/img/normal/80000/carequinha_00085164_0.jpg?xid=226642",
             "Nome": "Lívia",
             "Idade": 26,
             "Cidade": "Manaus",
