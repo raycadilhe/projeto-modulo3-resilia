@@ -1,7 +1,7 @@
 {
     "Tatuadores": [
         {
-            "Foto": "https://cdn.osaogoncalo.com.br/img/normal/80000/carequinha_00085164_0.jpg?xid=226642",
+            "Foto": "https://img.freepik.com/fotos-gratis/jovem-ruiva-atraente-e-charmosa-com-o-cabelo-solto-e-sorrindo-alegremente_273609-9285.jpg?w=1380&t=st=1678141834~exp=1678142434~hmac=362372ef7457e233f0ede59883addbf0ea73f99937a26769acdb2514fccb7f31",
             "Nome": "Lívia",
             "Idade": 26,
             "Cidade": "Manaus",
@@ -10,6 +10,7 @@
             "id": 1
         },
         {
+            "Foto": "https://img.freepik.com/fotos-gratis/jovem-fecha-o-casaco_140725-36768.jpg?w=1380&t=st=1678142359~exp=1678142959~hmac=75645eb75c1cef3d800dce6d495d47a4623f259a707fd8787c2b75d4c4475ed1",
             "Nome": "Peter",
             "Idade": 33,
             "Cidade": "Londres",
@@ -18,6 +19,7 @@
             "id": 2
         },
         {
+            "Foto": "https://img.freepik.com/fotos-gratis/mulher-adulta-sincera-com-cabelo-roxo-ondulado-continua-rindo-mulher-com-piercing-posando-de-top-branco-em-rosa_197531-19238.jpg?w=1380&t=st=1678142308~exp=1678142908~hmac=bb82efca068dbc905db5c67f87d61df9974218a9154d655b59aaf469f4cf81d2",
             "Nome": "Bárbara",
             "Idade": 21,
             "Cidade": "Rio de Janeiro",
@@ -26,6 +28,7 @@
             "id": 3
         },
         {
+            "Foto": "https://img.freepik.com/fotos-gratis/retrato-de-homem-bonito-e-serio_23-2149022636.jpg?w=1380&t=st=1678141857~exp=1678142457~hmac=8287db0e1d556ec487cf528fcc632ab11f3a0d3bf61c502ad4d219fb99e86b23",
             "Nome": "Gabriel",
             "Idade": 35,
             "Cidade": "Rio de Janeiro",
@@ -34,6 +37,7 @@
             "id": 4
         },
         {
+            "Foto": "https://img.freepik.com/fotos-gratis/mulher-negra-jovem-seria-olhando-para-a-camera_23-2148183299.jpg?w=740&t=st=1678142282~exp=1678142882~hmac=de290a52adc5e6e1f003c197e7b0875a48cd738ff2aea0cc930dfe5d03989782",
             "Nome": "Laura",
             "Idade": 23,
             "Cidade": "Rio de Janeiro",
@@ -42,6 +46,7 @@
             "id": 5
         },
         {
+            "Foto": "https://img.freepik.com/fotos-gratis/rindo-cara-atraente-se-divertindo-sorrindo-feliz_176420-18839.jpg?w=1380&t=st=1678142456~exp=1678143056~hmac=4232f444e181c7b91fa9883f2ceb2074df66dac37520dbade664469f4d3d1eec",
             "Nome": "Sávio",
             "Idade": 27,
             "Cidade": "São Paulo",
